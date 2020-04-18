@@ -33,7 +33,7 @@ def main():
 	print"==============================================================================="
 	print"|                              Codec By : HVmbl3                              |"
 	print"|                    Thanks buat team - Kanc0t Cyber Team                     |"
-	print"|                        https://github.com/kancotdiq      - versi 1          |"
+	print"|                          github.com/AL-AlamySploit      - versi 1           |"
 	print"==============================================================================="
 	print "" 
 	print "    [01] Albania"
