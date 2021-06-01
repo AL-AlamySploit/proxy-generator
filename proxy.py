@@ -31,8 +31,8 @@ def main():
 |_|   |_|  \___/_/\_\\__,  |      \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|   
                      |___/"""
 	print"==============================================================================="
-	print"|                              Codec By : HVmbl3                              |"
-	print"|                    Thanks buat team - Kanc0t Cyber Team                     |"
+	print"|                              Codec By : AL-Alamy                            |"
+	print"|                               AL-Alamy & A.7.Y-Team                         |"
 	print"|                          github.com/AL-AlamySploit      - versi 1           |"
 	print"==============================================================================="
 	print "" 
